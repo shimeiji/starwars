@@ -22,3 +22,5 @@ Acontece muito tempo depois do episodio anterior.
 O personagem Luke inicia o treinamento jedi.
 
 ## Episodio 06: O Retorno do Jedi
+
+Luke e seus amigos vencem o império.
