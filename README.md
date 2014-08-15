@@ -23,4 +23,5 @@ O personagem Luke inicia o treinamento jedi.
 
 ## Episodio 06: O Retorno do Jedi
 
-Sem spoilers!!!
+Luke e seus amigos, depois derrotam Darth Vader e vencem o império.
+
