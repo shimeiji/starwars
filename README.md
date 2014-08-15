@@ -11,8 +11,14 @@ Agora o Anakin é um aprendiz de jedi.
 
 ## Episodio 03: A Revoltas dos Sith
 
+Sem spoilers!!!
+
 ## Episodio 04: Uma Nova Esperança
 
+Acontece muito tempo depois do episodio anterior.
+
 ## Episodio 05: O Imperio Contra-Ataca
+
+O personagem Luke inicia o treinamento jedi.
 
 ## Episodio 06: O Retorno do Jedi
